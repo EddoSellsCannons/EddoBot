@@ -1,0 +1,35 @@
+[STORY]You find a mysterious dungeon. Inside, you are faced with 2 doors. Which do you choose?|[RANDOM]Left Door|[RANDOM]Right Door
+[BATTLE:HIM!]You defeat HIM! A ladder falls from the sky. There is also a door in front of you. Which do you choose?|[3]ladder|[RANDOM]door
+[LOOT:Boba's Babes]You found Boba's babes. There are so many of them. The babes guide you to 2 new doors|[12]Door 1|[RANDOM]Door 2
+[BATTLE:Possessed Bocchi]You somehow defeat Possessed Bocchi. You can loot the treasure tomb, or leave it be.|[5]Loot the treasure room|[RANDOM]Respectfully leave the tomb
+[LOOT:Eddo's Balanced Item]You found Eddo's Balanced Item. It glows in the dark etc. etc. Make sure to equip it!|[11]Glowing door|[RANDOM]Hole in ground
+[BATTLE:Bunny of Death]You defeat the adorable bunny. You can enter its burrow or leave through the door|[6]Enter burrow|[RANDOM]Leave through the door
+[BATTLE:KennyCarry]You defeat KennyCarry. You T-Bag the corpse to your hearts' content. Their friend is here to avenge them. You can fight or run.|[4]Fight!|[8]Run
+[LOOT:Claymore]You found a claymore. It's really heavy. You stare upon the 2 doors.|[12]Glowing door|[RANDOM]Wooden Door
+[BATTLE:HER!]You defeat HER! A ladder falls from the sky. There is also a door in front of you. Which do you choose?|[RANDOM]Ladder|[RANDOM]Door
+[BATTLE:Spongebob]For some reason, Spongebob fought you. You can look around in the pinapple home, or check Patricks home.|[RANDOM]Spongebob's home|[RANDOM]Patrick's home
+[STORY]You find an empty room. On the left is a faint dirt trail. On the right is a door|[4]Follow trail|[RANDOM]open door
+[STORY]There are 3 doors. However, you only feel compelled to choose between the first 2 doors|[RANDOM]First Door|[RANDOM]Second door
+[STORY]You find a room with a fountain. The fountain asks if you dropped this stone coin, or this golden coin.|[RANDOM]Stone coin|[9]Golden Coin
+[STORY]You notice a flicker of light as you enter that quickly diminishes. Footsteps can be heard nearby|[10]Investigate the sound|[RANDOM]Proceed onwards
+[STORY]A pitch black room stands before you. You hear a snarl of sorts, and feel around until you find a light switch|[6]Flick on the lights|[RANDOM]Move around in the dark
+[STORY]Bright rainbow lights move fiercely through a crack in the wall. On the other side, soft classical music can be heard.|[3]Follow the lights|[RANDOM]Follow the music
+[STORY]A smoke filled room stands in the way. Dark shadowy figures can be seen moving around.|[RANDOM]Run through the room as fast as you can|[2]Sneak slowly through the room, hoping you don't get caught
+[LOOT:Deagle]You found a Deagle. A skeleton of a Counter-Terrorist can be seen nearby. Perhaps it has some knowledge to give to you|[19]Attempt to communicate with the skeleton remains|[RANDOM]Proceed through the door
+[STORY]An eerie light emerges from a skeleton. It guides you forward, away from a golden door|[RANDOM]Follow the spirit of the skeleton|[3]Golden Door
+[LOOT:Katana]You found a Katana. You feel as if it was worth $70 AUD. Using your new weapon, you can cut down a wooden wall, or simply proceed through a door|[RANDOM]Slice the wooden wall|[RANDOM]Door
+[LOOT:shedinja]Gotcha! Shedinja was caught. Give a nickname to newly caught shedinja?|[22]Name it|[RANDOM]Don't name it
+[STORY]Gunfire can be heard in the distance. They did not like your recent actions|[2]Stay and apologise|[RANDOM]Flee the scene of the crime
+[LOOT:RANDOM]You find a chest in the middle of the room. You decide to open it and grab what was inside. The opening in front of you begins to close down|[RANDOM]Slide through the opening|[7]Remain trapped in the room
+[STORY]You hear your name faintly being called on your left. You also spot a small dirt trail on your right|[23]Follow the voice|[RANDOM]Follow dirt trail
+[BATTLE:Seal of Approval]You manage to beat the Seal of approval. The seal approves and leaves. They leave behind a rock of sorts|[18]Crack open the rock|[RANDOM]Leave through the door
+[BATTLE:PONGERS!]PONGERS POGS AT YOUR AMAZING PLAY TO DEFEAT IT!|[26]POG back at it|[RANDOM]Leave
+[LOOT:RANDOM]What's this? You trip over an item of sorts.|[RANDOM]Get up and move on|[24]Cry
+[LOOT:RANDOM]You open the cardboard box. It looks like someone else's belonging, but you don't care because you are heartless. You hear the owner approaching|[RANDOM]Run|[7]Hide
+[LOOT:Cute anime waifu]Uwu uwu find a cute anime waifu. Iwt iws the waifu of youw dweams, awnd iws suwpwisingwy stwong. Howevew, hew cwinginess weighs uwu down. She asks uwu own a date (uwu). Whewe duwu uwu take hew?|[30]What appears to be a fine dining restaurant|[31]Vending machine
+[LOOT:Creme Brulee]You see a Creme Brulee in its natural habitat. You carefully sneak up on it and catch it. Something scurries around, as if it is begging to be fed.|[21]Feed|[6]Eat it yourself
+[LOOT:Floor Chicken]You found a Floor Chicken! It smells wonderful. Too bad it was on the floor, so you instead use it as an improvised weapon. The floor asks for its chicken back|[RANDOM]Attempt to return it|[10]Ignore it
+[LOOT:RANDOM]You find a large chest. You like large chests :wink:. You hear something coming behind you|[RANDOM]Continue onwards and ignore|[25]Turn around and fight
+[LOOT:RANDOM]You find a small chest. You've seen bigger, but any chest is always welcome in your eyes. The small chest asks if you want to touch it.|[9]Do not touch|[2]Touch
+[LOOT:SPECIAL]You find a medium chest. The words "Medium is Premium" echos around you. Do you agree?|[RANDOM]Agree|[22]Disagree
+[STORY]You start to feel dizzy. You think "if only there were some large chests that I could fondle right now". Your eyes start to close|[32]Dream about large chests|[34]Dream about medium sized chests
