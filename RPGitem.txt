@@ -1,0 +1,38 @@
+Bow|A bow crafted from twigs and string|+10a,-5d|1
+Long Bow|A bow crafted from long twigs and long string|+20a,-5d,-5g|1
+Deagle|Stolen from a nearby Counter-Terrorist. Unfortunately, you must stand still to shoot accurately|+10a,+5l,=-1g|1
+Short Sword|A sword made from tape and a sharpened steel plate|+10a|0
+Axe|An axe created with string and a sharpened rock|+10a,+10l,-10g|0
+Shield|A wooden shield crafted from a door.|+10d|0
+shedinja|the bug from pokemon|x2g,=1h|0
+Creme Brulee|A dessert made by an amateur italian cook. Unfortunately, the recipe they followed was in latin|+10h|0
+Floor Chicken|A beautifully roasted chicken. Unfortunately it is currently on the floor|-5d,+15h|0
+Rapier|A rapier stolen from a certain girl in SAO.|+8a,+5g,-3d|0
+Boba's Babes|Babes from Boba|+2h,+2a,+2d,+2l,+2g|0
+Katana|A fragile katana. With one stroke of the blade, even the largest enemies fall. Of course, if you miss...|+10a,+20l,-20d|0
+Claymore|A heavy sword that can hold its own. However, the weight of it makes it hard to stay agile|+15a,+5d,-10g|0
+Three Hit Armor|Magic armor that withstands a number of hits. It's heavy, making it hard to dodge attacks. It is highly susceptible to magic attacks|=3h,+500d,+3a|2
+Needlessly Large Rod|A rod that does not need to be this large|+10a,-10l|2
+Eddo's Balanced Item|A balanced item that is of type "Special". It is usually unobtainable through normal means|+20a,+20d,+20l,+20g,+20h|3
+Cute anime waifu|UwU a cute anime waifu OwO. They are really clingy though, so they are constantly attached to your arm, making it difficult to move|+50a,+100l,-50g|3
+Viper's Fang|A blade coated with a deadly toxin. It stings just to hold, but it stingers more for enemies.|+150a,-50h|3
+Blessed Sword|A sword blessed by the gods that deals holy damage.|+50a,+10d,+30l|3
+Lightweight Shield|A lightweight shield that is easy to maneuver.|+4d,+3g,+3l|0
+Lucky Pendant|A pendant that brings good luck to its wearer.|+10l|0
+Sneaky Boots|Boots that make the wearer harder to detect and increase their agility.|+10g|0
+Ring of Protection|A ring that increases the wearer's defenses.|+8d,+2l|0
+Staff of Frost|A staff that can shoot bolts of ice|+8a,-8l|2
+Duplicator|A magic item that can duplicate your attacks, at the cost of your other stats|x1a,/0.4d,/0.4l,/0.4g,/0.4h|2
+Double Barrel Shotgun|A double barrel shotgun. It fires 2 shots before reloading|x1a,/0.2d,/0.2l,/0.2g,/0.2h|1
+Pet Turtle|Your very own pet turtle you wanted since you were a child. It doesn't do much, and is very slow|x0.2d,/0.5g,x0.2h,/3l|0
+Book of Statistics|Using your book of statistics, you deduce whether you should be landing crits or not|x0.4l,-4a|0
+A Car|Car|x0.2g,/0.4d|0
+Sponge|A sponge that can soak up a lot of damage|x1h,=0d,/0.2g|0
+Triple Crossbow|A crossbow that can load 3 bolts. It is insanely powerful, but slow and difficult to use|x0.6a,-15g,-15d,-15l|1
+The Scaler|Starts weak, but upgrades allows it to scale without downsides|x0.1a,x0.1d,x0.1l,x0.1g|3
+Last Stand|Clutch or kick|=1h,x1a,x1d,x1l,x1g|3
+Shadow Clone No Jutsu|Ctrl+C Ctrl+V|x1g,=0d,/0.5h|0
+Netherite Sword|A sword made of Netherite given by Minecraft Steve|+100a|3
+Veil of protection|A protective veil surrounds you|x0.01d,x0.01g,x0.01h,x0.1l|0
+Holy Shit that sucks Man|This battle is gonna take a long time. <:holyshitthatsucksman:1099674137133318177>|x0.5d,x0.5h,x0.5g,x0.5l,/0.5a|1
+Cum and cummer|cum|x0.05a,-1d|1

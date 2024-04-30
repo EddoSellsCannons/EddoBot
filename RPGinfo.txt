@@ -1,0 +1,6 @@
+sundubu_jjigae|Bocchi|58|25|22|42|42|72|25|51|401|35|None|None
+Boba|Boba|10|10|10|0|0|3|1|1|6|2|Eddo's Balanced Item+30|None
+LazyBoi|LazyBoi|34|22|12|2|10|6|9|41|88|22|Katana+20|None
+eddosellscannons|Eddo|482|673|100|169|307|120|237|215|2977|184|Staff of Frost+2|Needlessly Large Rod+9
+sam_sam389|sam_sam389|10|10|10|0|0|3|1|1|6|2|None|None
+bonanno101|bonanno101|12|10|10|0|0|6|2|0|15|11|Short Sword|None

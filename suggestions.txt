@@ -1,0 +1,3 @@
+Eddo suggested: add charisma stat to $rpg 
+Eddo suggested: create a new mob with [Name|name|maxhp|atk|df|lck|agl|-1|lvl|0|0|0||] format 
+Eddo suggested: create a new item with [name|description|stat|type] format. Type is 0 = Melee, 1 = Ranged. Stat is <+/-/=> for add, subtract or equal to num, <stat num>, then <a/d/l/a/h> for what stat to affect. Then add a comma and add more stats. make sure no spaces 
