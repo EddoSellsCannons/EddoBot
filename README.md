@@ -6,6 +6,8 @@ EddoBot: This is a Discord bot that has many functionalities
   - Creates Discord Polls quickly and easily
   - RPG: A autobattler with levelling and dungeon. Allows battles to be outputted frame by frame, creating a sort of animation. An interactive dungeon where players can choose a path and use their character to battle. Interactive shops to empower your character. All done via text
   - Slots: A simple slot game to win artificial credits. Can trade Credits for prizes, which were mainly Discord DMs of various pictures.
+  - TwitterBot.py: Access and edit a Twitter account (Done before the Elon Musk API changes). This feature is currently out of order
+  - toJson: A simple converter of a list of ideas to Json, used for BingySync.
   - Many more for fun, smaller functions
 
 EddoBot2: A reworked version of EddoBot in the works. This focuses on cleaning up code and readability.
